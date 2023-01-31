@@ -1,1 +1,1 @@
-# SaxonHE11NET7XHTMLOutputMethodExample1
+# Using Saxon HE 11 Java via IKVM in .NET 7 to have XSLT 3 produce output according to `xsl:output method="xhtml"`
